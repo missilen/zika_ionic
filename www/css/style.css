@@ -1,0 +1,9 @@
+/* Empty. Add your own CSS if you like */
+.tabs .tab-item .icon.iiu {
+  background-repeat: no-repeat;
+  background-position: 50%;
+  height: 50%;
+  background-image: url('../img/iiu-logo.png');
+  background-size:contain;
+
+}
